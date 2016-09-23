@@ -1,3 +1,5 @@
+/*
+
 (function ($) {
     $.fn.portfolio = function (options) {
         var d = {
@@ -198,7 +200,7 @@
     };
 }(jQuery));
 
-/*initialize*/
+/*initialize
 var o = {
     init: function () {
         this.portfolio.init();
@@ -276,3 +278,5 @@ $(function () {
                 if (callNow) func.apply(context, args);
             };
         };
+*/
+*/
