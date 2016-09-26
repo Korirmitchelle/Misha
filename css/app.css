@@ -220,6 +220,12 @@ a:hover {
     padding: 5%;
 
 }
+.row fesh{
+    margin-left: 6%;
+    margin-right: 6%;
+
+
+}
 @media screen and (max-width: 500px) {
     div {
         width: 70%;
