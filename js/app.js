@@ -1,10 +1,8 @@
-$(".slider1> div:gt(0)").hide();
-
-setInterval(function() {
-  $('.slider1 > div:first')
-    .fadeOut(1000)
-    .next()
-    .fadeIn(1000)
-    .end()
-    .appendTo('.slider1');
-},  3000);
+$(function(){
+    $('#slideshow1 img:gt(0)').hide();
+    setInterval(function(){
+      $('#slideshow1 :first-child').fadeOut()
+         .next('img').fadeIn()
+         .end().appendTo('#slideshow1');},
+      3000);
+});
