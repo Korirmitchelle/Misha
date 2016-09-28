@@ -1,3 +1,4 @@
+/*
 $(function(){
     $('#slideshow1 img:gt(0)').hide();
     setInterval(function(){
@@ -6,3 +7,4 @@ $(function(){
          .end().appendTo('#slideshow1');},
       3000);
 });
+*/

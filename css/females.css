@@ -4,12 +4,13 @@
     margin-right: 6%;
 }
 
-/*.row img {
+.row img {
     width: 300px;
     height: 250px;
     padding-bottom: 12%;
-}*/
+}
 
+/*
 #slideshow1 {
     position: relative;
     width: 300px;
@@ -24,3 +25,4 @@
     right: 0px;
     bottom: 0px;
 }
+*/
