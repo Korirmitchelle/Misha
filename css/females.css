@@ -1,22 +1,20 @@
-
-
 .row {
     padding-top: 3%;
     margin-left: 6%;
     margin-right: 6%;
 }
-.row img{
+
+/*.row img {
     width: 300px;
     height: 250px;
     padding-bottom: 12%;
-
-}
+}*/
 
 #slideshow1 {
     position: relative;
-     width: 300px;
+    width: 300px;
     height: 250px;
-
+    padding-bottom: 12%;
 }
 
 #slideshow1>div {
