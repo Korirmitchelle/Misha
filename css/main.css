@@ -84,10 +84,11 @@
     font-size: 68.5%;
 }
 figure.effect-layla {
-    background: #18a367;
+    background: #333;
 }
 figure.effect-layla img {
     height: 390px;
+    width: 100%;
 }
 figure.effect-layla figcaption {
     padding: 3em;
